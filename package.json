@@ -1,0 +1,15 @@
+{
+  "name": "datapack-generator",
+  "version": "0.0.1",
+  "description": "Minecraft Dataapck Generator\n`npm link` to link command\n`npm unlink` to unlink command",
+  "main": "index.js",
+  "bin": {
+    "generate": "./bin/generate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
