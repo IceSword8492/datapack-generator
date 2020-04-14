@@ -15,3 +15,5 @@ const generator = new Genrator(
     commander.dist,
     commander.version,
 );
+
+generator.generate();
